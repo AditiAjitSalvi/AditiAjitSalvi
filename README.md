@@ -23,8 +23,3 @@ My name is Aditi, and I am from India. I am currently pursuing my Master's degre
 ---
 [![](https://visitcount.itsvg.in/api?id=AditiAjitSalvi&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->/p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditiajitsalvi&show_icons=true&locale=en" alt="aditiajitsalvi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditiajitsalvi&" alt="aditiajitsalvi" /></p>
